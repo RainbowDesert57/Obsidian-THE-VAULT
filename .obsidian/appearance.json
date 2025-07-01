@@ -1,0 +1,12 @@
+{
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "animations",
+    "UI",
+    "formatting"
+  ],
+  "showViewHeader": false,
+  "baseFontSize": 18,
+  "accentColor": ""
+}

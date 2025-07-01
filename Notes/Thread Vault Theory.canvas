@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"f571c3ab34b5e091","type":"text","text":"# #ClosetManager","x":-30,"y":-720,"width":320,"height":60},
+		{"id":"1fce15af124e6ac9","type":"text","text":"## Viewing","x":880,"y":-62,"width":180,"height":60},
+		{"id":"ff68b9c8635f427e","type":"text","text":"## Adding","x":470,"y":-62,"width":160,"height":60},
+		{"id":"865da1161e68270b","type":"text","text":"Link a Page instead of this\n# UI","x":290,"y":100,"width":250,"height":80},
+		{"id":"2de3cbdcb1657776","type":"text","text":"Link a Page instead of this\n# Logic","x":570,"y":100,"width":250,"height":80},
+		{"id":"fdaac6fde7f1e0ad","type":"text","text":"### Tags","x":5,"y":-260,"width":250,"height":60},
+		{"id":"3f7d485ee2d8688e","type":"text","text":"## Adding","x":-340,"y":-62,"width":160,"height":60},
+		{"id":"c3c33bb31c5db7bc","type":"text","text":"## Viewing","x":-720,"y":-62,"width":180,"height":60},
+		{"id":"315ea3eafa4976e1","type":"text","text":"\n# <span style=\"color:#a259ff;\"> Thread Vault</span>","x":-415,"y":-290,"width":250,"height":60},
+		{"id":"3f775ed93b36da47","type":"text","text":"# PC (Electron)","x":-180,"y":-530,"width":265,"height":60},
+		{"id":"88c0213dddce9129","type":"text","text":"# Mobile (Kotlin)","x":130,"y":-530,"width":320,"height":60},
+		{"id":"54c9fc532b7583ba","type":"text","text":"\n# <span style=\"color:#a259ff;\"> Thread Vault</span>","x":470,"y":-290,"width":250,"height":60},
+		{"id":"a91fc1c6e044bd08","type":"file","file":"Notes/Thread Vault Logic Add PC.md","x":-255,"y":100,"width":260,"height":80},
+		{"id":"8e004912c5b2e256","type":"file","file":"Notes/Thread Vault UI Add PC.md","x":-540,"y":100,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"cf928f64bfd20a2d","fromNode":"315ea3eafa4976e1","fromSide":"bottom","toNode":"3f7d485ee2d8688e","toSide":"top"},
+		{"id":"29521b10f76c06d8","fromNode":"315ea3eafa4976e1","fromSide":"bottom","toNode":"c3c33bb31c5db7bc","toSide":"top"},
+		{"id":"4d3395951737a96c","fromNode":"3f775ed93b36da47","fromSide":"bottom","toNode":"315ea3eafa4976e1","toSide":"top"},
+		{"id":"03945cd6331a28fa","fromNode":"f571c3ab34b5e091","fromSide":"bottom","toNode":"3f775ed93b36da47","toSide":"top"},
+		{"id":"ec11a4d6fd0e9356","fromNode":"f571c3ab34b5e091","fromSide":"bottom","toNode":"88c0213dddce9129","toSide":"top"},
+		{"id":"15d578bbee9f779f","fromNode":"88c0213dddce9129","fromSide":"bottom","toNode":"54c9fc532b7583ba","toSide":"top"},
+		{"id":"c143cb956cedb49e","fromNode":"54c9fc532b7583ba","fromSide":"bottom","toNode":"ff68b9c8635f427e","toSide":"top"},
+		{"id":"83c84cd667a18705","fromNode":"54c9fc532b7583ba","fromSide":"bottom","toNode":"1fce15af124e6ac9","toSide":"top"},
+		{"id":"7e431b1506b268ec","fromNode":"ff68b9c8635f427e","fromSide":"bottom","toNode":"865da1161e68270b","toSide":"top"},
+		{"id":"fa8dfb23bcf6d593","fromNode":"ff68b9c8635f427e","fromSide":"bottom","toNode":"2de3cbdcb1657776","toSide":"top"},
+		{"id":"109fe0e8a03812f2","fromNode":"3f7d485ee2d8688e","fromSide":"bottom","toNode":"8e004912c5b2e256","toSide":"top"},
+		{"id":"673cdf5004c912d1","fromNode":"3f7d485ee2d8688e","fromSide":"bottom","toNode":"a91fc1c6e044bd08","toSide":"top"}
+	]
+}

@@ -1,0 +1,324 @@
+{
+  "main": {
+    "id": "47947b8e654fa537",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7820b18920e84e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd1aef4f6ad80cc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4aed3b2dbefcdc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Obsidian Formatting Snippets.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Formatting Snippets"
+            }
+          },
+          {
+            "id": "76d21bee20e1a778",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Indexes/School Project Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    null,
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "School Project Kanban"
+            }
+          },
+          {
+            "id": "124757a8cc69c6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/English - Task 5.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English - Task 5"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff6335f9dab1a73b",
+    "type": "split",
+    "children": [
+      {
+        "id": "51012a042ad0a773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "579b4d5571180385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79430eb47bce9a80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SocialScience",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "acdf4e1177711df7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e9502aabaec61f87",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Clock.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Clock"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "890029c8cdf29292",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c769ecc988280ec",
+        "type": "tabs",
+        "dimension": 43.37700145560407,
+        "children": [
+          {
+            "id": "56ce109863f81270",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "71e7f7ea56dafc84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "80385b0a09b2e682",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "146e759e42bb46d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4eaf361470b30f27",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "ab0f6bb50513e2cc",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "962aafa986b76596",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "1533266aa1c8a900",
+        "type": "tabs",
+        "dimension": 56.62299854439593,
+        "children": [
+          {
+            "id": "f0c0fc3bbb483fee",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": true,
+      "widgets:Add widget": false
+    }
+  },
+  "active": "962aafa986b76596",
+  "lastOpenFiles": [
+    "Notes/English - Task 5.md",
+    "Notes/Clock.md",
+    "Notes/Obsidian Formatting Snippets.md",
+    "Indexes/School Project Kanban.md",
+    "Notes/English Project 2025.md",
+    "Notes/English - Task 4.md",
+    "Notes/English - Task 3.md",
+    "Notes/Master Kanban.md",
+    "Notes/Maths Project 2025.md",
+    "Indexes/Life.md",
+    "Notes/History Project 2025.md",
+    "Notes/Geography Project 2025.md",
+    "Notes/Political Science Project Activity 2.md",
+    "Indexes/Obsidian.md",
+    "Notes/Biology Brochure.md",
+    "Notes/2025-07-01.md",
+    "BRAIN.md",
+    "Notes/Political Science Project 2025.md",
+    "Indexes/Journal.md",
+    "Indexes/Subject.md",
+    "Indexes/Science.md",
+    "Indexes/Hashmaps.md",
+    "Notes/Biology Project 2025.md",
+    "Notes/Biology Brochure Layout.md",
+    "Notes/Political Science Project Activity 3.md",
+    "Indexes/Markdown.md",
+    "Notes/Thread Vault Theory.canvas",
+    "Notes",
+    "Notes/Kidney Diagram Biology.png",
+    "Notes/Boat illustration, Biology.png",
+    "Indexes"
+  ]
+}

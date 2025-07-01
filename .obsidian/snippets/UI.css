@@ -1,0 +1,89 @@
+* {
+  border-radius: 7px;
+  
+}
+.workspace-leaf-resize-handle {
+  border: none !important;
+}
+.nav-buttons-container {
+  border-radius: 12px;
+}
+.workspace-ribbon {
+  border-radius: 30px;
+  margin: 10px !important;
+  margin-top: 170px !important;
+  border: 2px solid rgb(138, 92, 245) !important;
+  height: 305px; !important;
+  /*backdrop-filter: blur(8px);*/
+
+  background-color: #1e1e2e !important;
+}
+/* Main sidebar container (left + right) */
+.workspace-tabs.mod-left,
+.workspace-tabs.mod-right,
+
+.nav-buttons-container,
+.nav-header,
+.side-dock,
+.graph-controls.is-close,
+.side-dock.mod-left,
+.side-dock.mod-right {
+  background-color: #1e1e2e !important;
+}
+
+
+.nav-files-container,
+.nav-folder,
+.nav-file,
+.workspace-tab-header-container,
+.workspace-tab-header-container::after,
+.workspace-tab-header-inner {
+  background-color: #1e1e2e !important;
+}
+.view-content {
+  background-color: #1e1e2e !important; /* Example: Catppuccin Mocha base */
+}
+.workspace-tab-header-container {
+  background-color: #1e1e2e !important;
+  border: none !important;
+}
+/*Hide srollbar from displaying*/
+*::-webkit-scrollbar {
+  display: none !important;backdrop-filter: blur(8px);
+}
+
+.titlebar-button-container.mod-right{
+  background-color: #1e1e2e !important;
+}
+/*.svg-icon.sidebar-left,
+.svg-icon.sidebar-right,*/
+.svg-icon {
+  border-radius: 0px !important;
+}
+.sidebar-toggle-button.mod-left {
+  background-color: transparent !important;
+  border: none !important;
+}
+.task-list-item-checkbox {
+  border: 1px solid grey !important;
+}
+/*.hr.cm-line {
+  border: 0.001px solid grey !important;
+  color: white;
+  height: 0.001px;
+}*/
+.cm-cursor {
+  width: 10px !important;
+  border-left: none !important;
+  background-color: var(--text-accent) !important;
+  opacity: 0.8 !important;
+}
+.workspace-tab-header.tappable {
+  border: none !important;
+}
+.cm-cursor {
+  width: auto !important;
+  border-left: none !important;
+  background-color: var(--text-accent) !important;
+  opacity: 0.8 !important;
+}
