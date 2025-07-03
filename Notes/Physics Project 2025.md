@@ -1,4 +1,4 @@
-- [ ] **Table is done, make one later after exams** 📅 2025-7-18
+- [x] **Table is done, make one later after exams** 📅 2025-7-18 ✅ 2025-07-03
 ## 📘 CASE 1: Object **between C and F**, slightly **above axis**
 
 ### ✅ Ray paths:
@@ -52,4 +52,4 @@ Same rays as CASE 2:
 - But since object was **below**, image forms **above** axis
 ##### Yes — **CBSE twist**: same mirror, same object distance, but because you placed the object below the axis, the image flips **above** axis (still technically _inverted_).
 # Links
-## [[Physics]] [[Light]] [[Light: Magnification]]
+## [[Physics]] [[Light]] [[Ray Diagrams]]

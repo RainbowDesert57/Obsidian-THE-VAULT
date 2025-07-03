@@ -85,6 +85,20 @@
               "icon": "lucide-file",
               "title": "Nationalism in India"
             }
+          },
+          {
+            "id": "dce6c52fa55aae52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/QnA Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QnA Template"
+            }
           }
         ],
         "currentTab": 4
@@ -336,8 +350,14 @@
   },
   "active": "d164468bb2a8fc70",
   "lastOpenFiles": [
-    "Indexes/History.md",
+    "Notes/Physics Project 2025.md",
+    "Notes/Ray Diagrams.md",
     "Notes/Nationalism in India.md",
+    "Notes/Light.md",
+    "Notes/Templates.md",
+    "Notes/QnA Template.md",
+    "Notes/Clock.md",
+    "Indexes/History.md",
     "Indexes/Social Science.md",
     "Indexes/School Projects.md",
     "Notes/School Note Template.md",
@@ -346,11 +366,8 @@
     "Indexes/School.md",
     "Notes/History Project 2025.md",
     "Notes/History Project Activity 2.md",
-    "Notes/Templates.md",
-    "Notes/Physics Project 2025.md",
     "Untitled.canvas",
     "2025-07-02.md",
-    "Notes/Clock.md",
     "Notes/2025-07-01.md",
     "Notes/2025-07-02.md",
     "Indexes/School Project Kanban.md",
@@ -360,9 +377,6 @@
     "Notes/Arch ASCII.md",
     "Notes/IT Project 2025.md",
     "Notes/Obsidian Formatting Snippets.md",
-    "Notes/Geography Project 2025.md",
-    "Notes/Political Science Project 2025.md",
-    "Notes/Political Science Project Activity 1.md",
     "Notes/Thread Vault Theory.canvas",
     "Notes",
     "Notes/Kidney Diagram Biology.png",
