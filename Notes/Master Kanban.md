@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] Start making the Thread Vault PC UI
-- [ ] English Project
+- [/] English Project
 - [ ] Biology Brochure
 - [ ] Maths question bank
 - [ ] Make links of porjects to chapters

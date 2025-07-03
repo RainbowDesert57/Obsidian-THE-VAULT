@@ -4,5 +4,11 @@
   "newFileFolderPath": "Notes",
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 99
+  }
 }

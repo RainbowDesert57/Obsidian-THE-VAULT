@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
       "LiNotebookText",
       "LiTriangleRight",
       "LiCode2",
-      "LiCalculator",
-      "LiNetwork"
+      "LiCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -83,8 +83,7 @@
   "Indexes/Subject.md": "LiSchool",
   "Indexes/Vectors.md": "LiComputer",
   "Indexes/WEB.md": "LiWifi",
-  "Notes/2025-07-01.md": "LiNotebookPen",
-  "Notes/2025-07-02.md": "LiNotebookPen",
+  "Notes/2025-07-01.md": "LiCalendar",
   "Notes/Biology Brochure.md": "LiLeaf",
   "Notes/Biology Project 2025.md": "LiLeaf",
   "Notes/Boat illustration, Biology.png": "LiImage",
@@ -124,5 +123,6 @@
   "Notes/Thread Vault UI See Mobile.md": "LiCode2",
   "Notes/Thread Vault UI See PC.md": "LiCode2",
   "Notes/Trigonometry.md": "LiTriangleRight",
-  "Notes/Truimph of suregery.md": "LiNotebookText"
+  "Notes/Truimph of suregery.md": "LiNotebookText",
+  "Indexes/Journal.md": "LiNotebookText"
 }

@@ -1,22 +1,22 @@
 # <div style = "text-align: center;"><span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;"><span style="text-shadow: 0 0 13px rgb(255,255,255), 0 0 2px rgb(255,255,255); font-size: 50; font-weight: 1000; padding: 3px; padding-right: 10px; padding-left: 10px; border-radius: 7px; color: rgb(255,255,255);">TASK 2</span></span></div>
 # <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">✅ To-Do:</span>
 
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Find information about the struggle of Gandhi, Nelson Mandela, and Martin Luther Jr.</span>
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Find information about the struggle of Gandhi, Nelson Mandela, and Martin Luther Jr.</span> ✅ 2025-07-02
     
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Find similarities</span>
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Find similarities</span> ✅ 2025-07-02
     
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Find difference</span>
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Find difference</span> ✅ 2025-07-02
     
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Highlight the key points</span>
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Highlight the key points</span> ✅ 2025-07-02
 
 # <span style = "animation: fadeInUp 0.7s ease-in-out;">Writing</span>
 
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">write a practice document</span>
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Use spacing and color code each part</span>
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">write a practice document</span> ✅ 2025-07-02
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Use spacing and color code each part</span> ✅ 2025-07-02
 
 # <span style = "animation: fadeInUp 0.7s ease-in-out;">Final Checks:</span>
 
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Make sure it follows this Main structure:</span>
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Make sure it follows this Main structure:</span> ✅ 2025-07-02
     
 <span style = "animation: fadeInUp 0.7s ease-in-out;"> <div style="display: flex; gap: 1rem; justify-content: space-between;">
 
@@ -35,12 +35,12 @@
 </div> </span>
 
 
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out;">Neatness</span>
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out;">Flow (if it makes sense and is consistent to the topic and story, not drifting away)</span>
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out;">Word limit</span>
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out;">Clarity</span>
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out;">Vocabulary (check in the rough document</span>
-- [ ] <span style = "animation: fadeInUp 0.7s ease-in-out;">Mark Paragraphs and color code them, underlining/highlighting (to be done in practice document also)</span>
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out;">Neatness</span> ✅ 2025-07-02
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out;">Flow (if it makes sense and is consistent to the topic and story, not drifting away)</span> ✅ 2025-07-02
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out;">Word limit</span> ✅ 2025-07-02
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out;">Clarity</span> ✅ 2025-07-02
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out;">Vocabulary (check in the rough document</span> ✅ 2025-07-02
+- [x] <span style = "animation: fadeInUp 0.7s ease-in-out;">Mark Paragraphs and color code them, underlining/highlighting (to be done in practice document also)</span> ✅ 2025-07-02
 
 # <strong><span style = "animation: fadeInUp 0.7s ease-in-out;">Cover Page:</span></strong>
 

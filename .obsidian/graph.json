@@ -36,6 +36,13 @@
       }
     },
     {
+      "query": "tag:#maths ",
+      "color": {
+        "a": 1,
+        "rgb": 6353403
+      }
+    },
+    {
       "query": "BRAIN",
       "color": {
         "a": 1,
@@ -129,14 +136,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.6,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.2484375,
   "lineSizeMultiplier": 1.75885416666667,
   "collapse-forces": true,
   "centerStrength": 0.630208333333333,
-  "repelStrength": 11.9791666666667,
-  "linkStrength": 0.895833333333333,
-  "linkDistance": 89,
-  "scale": 0.13348388671875,
+  "repelStrength": 11.7708333333333,
+  "linkStrength": 0.9453125,
+  "linkDistance": 30,
+  "scale": 0.45050811767578125,
   "close": true
 }

@@ -4,8 +4,7 @@
 ## **Interviewer**: Good afternoon, Dr. Herriot. Thank you for joining us today. To begin with, what was your first reaction when you saw Tricki?
 
 **Dr. Herriot**: Good afternoon! Honestly, I was stunned. He didn’t look like a dog — more like a bloated submarine waddling in fur, an overfed torpedo on paws. I knew right away that his life was in danger if we didn’t act quickly.
-- [ ] <strong style = "background: linear-gradient(to right, rgb(100, 180, 255), grey); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Make Greating seperate</strong>
-## Explaination if needed
+### Explaination if needed
 <div style = "border-left: 4px solid #007acc; padding-left: 1rem; border-radius: 7px;">"A torpedo is a long, narrow underwater weapon launched from a submarine or ship. It moves fast and is designed to hit and damage enemy vessels. I just used it as a funny exaggeration — like, Tricki was so round and slow, he looked like a torpedo stuck in reverse."</div>
 
 ---
@@ -24,13 +23,13 @@
 
 ## **Interviewer**: What role do you think Mrs. Pumphrey played in Tricki’s condition?
 
-**Dr. Herriot**: Mrs. Pumphrey loved Tricki deeply — there’s no doubt about that. But sometimes, too much love can harm. Her constant pampering, overfeeding, and luxury treats did more damage than good. It’s a reminder that discipline is also a form of love.
+**Dr. Herriot**: Mrs. Pumphrey loved Tricki deeply — there’s no doubt about that. But sometimes, too much love takes away more than it gives. Her constant pampering, overfeeding, and luxury treats did more damage than good. It’s a reminder that discipline is also a form of love.
 
 ---
 
-## **Interviewer**: Looking back, what did you learn from this experience?
+## **Interviewer**: That is sad, but true. I am sure you learned something from this experience, would you please share that with us?
 
-**Dr. Herriot**: It reinforced the idea that simple care, proper diet, and natural interaction often work better than medicine. Animals, like humans, need balance. And sometimes, the real triumph in surgery is knowing when **not** to use the scalpel.
+### **Dr. Herriot**: Yeah, why not! So, it reinforced the idea that simple care, proper diet, and natural interaction often work better than medicine. Animals, like humans, need balance. And sometimes, the real triumph in surgery is knowing when **not** to use the scalpel.
 
 # Links and Tags
 ## [[Truimph of suregery]] #English

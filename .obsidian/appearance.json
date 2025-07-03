@@ -3,10 +3,11 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "animations",
-    "UI",
-    "formatting"
+    "formatting",
+    "UI"
   ],
   "showViewHeader": false,
   "baseFontSize": 18,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

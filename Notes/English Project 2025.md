@@ -13,7 +13,7 @@
 
 ```widgets
 type: countdown
-date: 2025-07-1 18:30
+date: 2025-07-1 22:30
 ```
 
 

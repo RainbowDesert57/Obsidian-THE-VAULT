@@ -1,0 +1,8 @@
+.view-content {
+  background-color:  #f7f5ff !important;
+}
+@media print {
+  .view-content {
+    background-color: #f7f5ff !important;
+  }
+}

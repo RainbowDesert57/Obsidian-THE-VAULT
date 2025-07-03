@@ -12,7 +12,7 @@
 
 <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Mrs. Pumphrey: That sounds harsh!</span>
 
-<span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Mother Seagull: But necessary. He found his wings only because he faced fear.</span>**
+<span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Mother Seagull: But necessary. He found his wings only because he faced fear.</span>
 
 <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Mrs. Pumphrey: Hmm... I relied too much on comforts. Maybe I feared his discomfort more than he did.</span>
 
@@ -21,4 +21,4 @@
 <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Mrs. Pumphrey: Indeed. Next time, I’ll be brave too.</span>
 
 # Links
-## [[English Project 2025]] [[School Project Kanban]] [[His First Flight]] [[Truimph of suregery]] #English 
+## [[English Project 2025]] [[His First Flight]] [[Truimph of suregery]] #English 

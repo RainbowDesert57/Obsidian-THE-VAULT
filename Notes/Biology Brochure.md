@@ -39,7 +39,7 @@
 ## ToDo:
 
 - [ ] Design in canva
-- [ ] Final it
+- [x] Final it ✅ 2025-07-02
 - [ ] make it on a folded a3 sheet
 # Images
 
