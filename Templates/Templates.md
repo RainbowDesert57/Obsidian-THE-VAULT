@@ -3,4 +3,5 @@
 [[School Note Template]]
 [[QnA Template]]
 [[Obsidian]]
-
+[[Formula and Valency - Chemistry Template]]
+[[periodic table Template]]

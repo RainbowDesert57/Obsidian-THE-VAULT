@@ -14,3 +14,23 @@
   font-weight: 1000;
   color: white;
 }
+.subGradientHeading {
+  background: linear-gradient(to right, #8e42ff, rgb(100, 180, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 40px;
+  font-weight: 1000;
+  padding: 3px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 7px;
+  background-clip: text;
+}
+.centerText {
+  text-align: center;
+}
+.curvedLeftBorder{
+  border-left: 5px solid;
+  border-radius: 7px;
+  margin: 5px;
+}

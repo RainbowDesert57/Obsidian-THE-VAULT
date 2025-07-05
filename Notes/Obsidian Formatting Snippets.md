@@ -23,11 +23,11 @@
 ```
 ## Text Color
 ### Gradient Text (Purple Blue)
-<span style="background: linear-gradient(to right, rgb(150,100,255), rgb(100, 180, 255));
+<span style="background: linear-gradient(to right, #8e42ff, rgb(100, 180, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; font-size: 30; font-weight: 1000; padding: 3px; padding-right: 10px; padding-left: 10px; border-radius: 7px;">GradientText</span>
 ```
-<span style="background: linear-gradient(to right, rgb(150,100,255), rgb(100, 180, 255)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30; font-weight: 1000; padding: 3px; padding-right: 10px; padding-left: 10px; border-radius: 7px;"></span>  
+<span style="background: linear-gradient(to right, #8e42ff, rgb(100, 180, 255)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; font-weight: 1000; padding: 3px; padding-right: 10px; padding-left: 10px; border-radius: 7px;"></span>  
 ```
 ## Glowing Text
 <span style="text-shadow: 0 0 5px rgb(150,100,255), 0 0 2px rgb(150,100,255); font-size: 30; font-weight: 1000; padding: 3px; padding-right: 10px; padding-left: 10px; border-radius: 7px; color: rgb(150,100,255);">GlowingText</span>

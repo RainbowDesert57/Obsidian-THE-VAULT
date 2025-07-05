@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookPen",
       "LiCalendar",
       "LiNotebookText",
       "LiTriangleRight",
-      "LiCode2",
-      "LiCalculator"
+      "LiCode2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,6 @@
     "useInternalPlugins": false
   },
   "Indexes/Biology.md": "LiTrees",
-  "Indexes/Chemistry.md": "LiAtom",
   "Indexes/Coding.md": "LiCode",
   "Indexes/DSA.md": "LiComputer",
   "BRAIN.md": "LiBrain",
@@ -124,5 +123,7 @@
   "Notes/Thread Vault UI See PC.md": "LiCode2",
   "Notes/Trigonometry.md": "LiTriangleRight",
   "Notes/Truimph of suregery.md": "LiNotebookText",
-  "Indexes/Journal.md": "LiNotebookText"
+  "Indexes/Journal.md": "LiNotebookText",
+  "Notes/Chemistry.md": "LiAtom",
+  "Notes/2025-07-02.md": "LiNotebookPen"
 }

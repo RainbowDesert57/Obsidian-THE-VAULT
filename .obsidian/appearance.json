@@ -9,5 +9,7 @@
   "showViewHeader": false,
   "baseFontSize": 18,
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

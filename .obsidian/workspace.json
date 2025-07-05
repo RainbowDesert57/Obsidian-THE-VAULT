@@ -27,81 +27,40 @@
               "type": "task-genius-view",
               "state": {},
               "pinned": true,
-              "icon": "calendar-days",
-              "title": "Forecast"
-            }
-          },
-          {
-            "id": "18b4c19417d46c36",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Indexes/School Project Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    true,
-                    null,
-                    true,
-                    true,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "School Project Kanban"
-            }
-          },
-          {
-            "id": "f29ad51e0b7e159f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indexes/Social Science.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Social Science"
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "d164468bb2a8fc70",
+            "id": "591fdaea2eb258c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Nationalism in India.md",
+                "file": "Notes/Important Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nationalism in India"
+              "title": "Important Equations"
             }
           },
           {
-            "id": "dce6c52fa55aae52",
+            "id": "b035303727d69685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/QnA Template.md",
+                "file": "Notes/Valencies and Formulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QnA Template"
+              "title": "Valencies and Formulas"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SocialScience",
+                "query": "tag:#codingProject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "890029c8cdf29292",
@@ -184,7 +144,7 @@
       {
         "id": "3c769ecc988280ec",
         "type": "tabs",
-        "dimension": 51.24450951683748,
+        "dimension": 52.38726790450928,
         "children": [
           {
             "id": "56ce109863f81270",
@@ -304,12 +264,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "1533266aa1c8a900",
         "type": "tabs",
-        "dimension": 48.75549048316252,
+        "dimension": 47.61273209549072,
         "children": [
           {
             "id": "f0c0fc3bbb483fee",
@@ -327,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,36 +308,37 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "d164468bb2a8fc70",
+  "active": "b035303727d69685",
   "lastOpenFiles": [
+    "Notes/Important Equations.md",
+    "Notes/Valencies and Formulas.md",
+    "Notes/Chemistry - Chemical Equations and Reactions.md",
+    "Notes/Balancing equations.md",
+    "Notes/Chemistry - Ch-1 Practice Questions - Reactions.md",
+    "Notes/Clock.md",
+    "Templates/Formula and Valency - Chemistry Template.md",
+    "Templates",
+    "Notes/Obsidian Formatting Snippets.md",
+    "Notes/Exam Prep Kanban.md",
+    "Notes/Master Kanban.md",
+    "BRAIN.md",
+    "Templates/periodic table Template.md",
+    "Templates/Templates.md",
+    "Notes/2025-07-02.md",
+    "Notes/Chemistry.md",
+    "Notes/Chemical notations + valencies.md",
+    "Indexes/Science.md",
+    "Notes/Chemical equations.md",
+    "Notes/Thread Vault Theory.canvas",
+    "Notes/Thread Vault Logic Add PC.md",
+    "Notes/Nationalism in India.md",
+    "Notes/QnA Template.md",
+    "Indexes/School Project Kanban.md",
     "Notes/Physics Project 2025.md",
     "Notes/Ray Diagrams.md",
-    "Notes/Nationalism in India.md",
     "Notes/Light.md",
-    "Notes/Templates.md",
-    "Notes/QnA Template.md",
-    "Notes/Clock.md",
     "Indexes/History.md",
-    "Indexes/Social Science.md",
-    "Indexes/School Projects.md",
-    "Notes/School Note Template.md",
-    "Notes/History Project Activity 1.md",
-    "Notes/word count.md",
-    "Indexes/School.md",
-    "Notes/History Project 2025.md",
-    "Notes/History Project Activity 2.md",
     "Untitled.canvas",
-    "2025-07-02.md",
-    "Notes/2025-07-01.md",
-    "Notes/2025-07-02.md",
-    "Indexes/School Project Kanban.md",
-    "Indexes/Bash.md",
-    "Notes/Desktop App.md",
-    "Indexes/Arch.md",
-    "Notes/Arch ASCII.md",
-    "Notes/IT Project 2025.md",
-    "Notes/Obsidian Formatting Snippets.md",
-    "Notes/Thread Vault Theory.canvas",
     "Notes",
     "Notes/Kidney Diagram Biology.png",
     "Notes/Boat illustration, Biology.png",

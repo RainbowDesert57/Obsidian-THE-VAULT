@@ -1,9 +1,8 @@
+> [!quote]+ 🔒
+> <span style="font-weight: 1000; font-size: 30px">"LOCK IN"</span>
 
-```widgets
-type: quote
-quote: GET SHIT DONE
-author: NOW
-```
+
+
 
 ```widgets
 type: clock
@@ -16,6 +15,12 @@ compact: true
 
 
 
+
+```widgets
+type: quote
+quote: LOCK IN
+author: NOW
+```
 
 
 

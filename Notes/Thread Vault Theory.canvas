@@ -13,7 +13,8 @@
 		{"id":"88c0213dddce9129","type":"text","text":"# Mobile (Kotlin)","x":130,"y":-530,"width":320,"height":60},
 		{"id":"54c9fc532b7583ba","type":"text","text":"\n# <span style=\"color:#a259ff;\"> Thread Vault</span>","x":470,"y":-290,"width":250,"height":60},
 		{"id":"a91fc1c6e044bd08","type":"file","file":"Notes/Thread Vault Logic Add PC.md","x":-255,"y":100,"width":260,"height":80},
-		{"id":"8e004912c5b2e256","type":"file","file":"Notes/Thread Vault UI Add PC.md","x":-540,"y":100,"width":250,"height":80}
+		{"id":"8e004912c5b2e256","type":"file","file":"Notes/Thread Vault UI Add PC.md","x":-540,"y":100,"width":250,"height":80},
+		{"id":"cd86e7af13fc5240","x":-255,"y":340,"width":260,"height":180,"type":"text","text":"Use JSON, and add classes in that, add an update option"}
 	],
 	"edges":[
 		{"id":"cf928f64bfd20a2d","fromNode":"315ea3eafa4976e1","fromSide":"bottom","toNode":"3f7d485ee2d8688e","toSide":"top"},

@@ -87,3 +87,11 @@
   background-color: var(--text-accent) !important;
   opacity: 0.8 !important;
 }
+
+.CodeMirror-cursor { 
+  border-left-width: 0.5em !important;
+}
+.CodeMirror-cursor { 
+   width: 9px !important; 
+} 
+
