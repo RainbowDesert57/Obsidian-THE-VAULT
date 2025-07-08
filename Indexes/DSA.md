@@ -1,3 +1,1 @@
-[[Coding Concepts]] #coding
-[[Science]]
-[[Maths]]
+[[Coding Concepts]] #coding 

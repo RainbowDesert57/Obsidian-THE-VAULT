@@ -1,9 +1,9 @@
 {
-  "progressBarDisplayMode": "both",
+  "progressBarDisplayMode": "graphical",
   "supportHoverToShowProgressInfo": false,
   "addProgressBarToNonTaskBullet": false,
   "addTaskProgressBarToHeading": false,
-  "enableProgressbarInReadingMode": false,
+  "enableProgressbarInReadingMode": true,
   "countSubLevel": false,
   "displayMode": "bracketFraction",
   "customFormat": "[{{COMPLETED}}/{{TOTAL}}]",
@@ -74,7 +74,7 @@
     "Planned": "?"
   },
   "excludeMarksFromCycle": [],
-  "enableTaskGeniusIcons": false,
+  "enableTaskGeniusIcons": true,
   "enablePriorityPicker": false,
   "enablePriorityKeyboardShortcuts": false,
   "enableDatePicker": false,
@@ -468,11 +468,11 @@
   ],
   "reviewSettings": {},
   "rewards": {
-    "enableRewards": false,
+    "enableRewards": true,
     "rewardItems": [
       {
         "id": "reward-tea",
-        "name": "Drink a cup of good tea",
+        "name": "20 min rest",
         "occurrence": "common",
         "inventory": -1
       },
@@ -501,7 +501,7 @@
     "occurrenceLevels": [
       {
         "name": "common",
-        "chance": 70
+        "chance": 50
       },
       {
         "name": "rare",
@@ -515,8 +515,17 @@
     "showRewardType": "modal"
   },
   "habit": {
-    "enableHabits": false,
-    "habits": []
+    "enableHabits": true,
+    "habits": [
+      {
+        "id": "1751977657452e0atuzh",
+        "name": "3 x 10 Pushups",
+        "description": "Do ten pushups, 3 times",
+        "icon": "lucide-dumbbell",
+        "type": "daily",
+        "property": "Exercise"
+      }
+    ]
   },
   "filterConfig": {
     "enableSavedFilters": true,
@@ -568,7 +577,7 @@
     "defaultEventColor": "#3b82f6"
   },
   "timelineSidebar": {
-    "enableTimelineSidebar": false,
+    "enableTimelineSidebar": true,
     "autoOpenOnStartup": false,
     "showCompletedTasks": true,
     "focusModeByDefault": false,

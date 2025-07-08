@@ -10,5 +10,6 @@
     "landscape": false,
     "margin": "1",
     "downscalePercent": 99
-  }
+  },
+  "vimMode": false
 }

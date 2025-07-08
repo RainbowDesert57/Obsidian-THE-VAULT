@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] Biology: Diagrams
-- [ ] Math: Question Bank (save it for last, there are too many, like 40 -45)
+- [?] Biology: Diagrams
+- [?] Math: Question Bank (save it for last, there are too many, like 40 -45)
 
 
 ## Typing
@@ -16,24 +16,24 @@ kanban-plugin: board
 
 ## Typed
 
-- [ ] Biology: Crossword
-- [ ] History: Diary (Activity 1)
-- [ ] History: Map Table (Activity 1)
-- [ ] PolSc: Mindmap (Activity 1)
-- [ ] PolSc: Mapwork (Activity 1)
-- [ ] PolSc: My Pary (Activity 2)
-- [ ] PolSc: Pamphlet (Activity 3)
-- [ ] Geography Project
+- [?] Biology: Crossword
+- [x] History: Diary (Activity 1) ✅ 2025-07-07
+- [?] History: Map Table (Activity 1)
+- [?] PolSc: Mindmap (Activity 1)
+- [?] PolSc: Mapwork (Activity 1)
+- [?] PolSc: My Pary (Activity 2)
+- [?] PolSc: Pamphlet (Activity 3)
+- [x] Geography Project ✅ 2025-07-08
 
 
 ## Artwork
 
-- [ ] English: Task 1
-- [ ] English: Task-3
-- [ ] Math: Cloth art of Tripura &...
-- [ ] History: Book Coverpage (Activity 2)
-- [ ] PolSc Ethnic Composition Pie Chart (Activity 1)
-- [ ] Bioogy: Brochure
+- [x] English: Task 1 ✅ 2025-07-07
+- [x] English: Task-3 ✅ 2025-07-07
+- [?] Math: Cloth art of Tripura &...
+- [?] History: Book Coverpage (Activity 2)
+- [?] PolSc Ethnic Composition Pie Chart (Activity 1)
+- [?] Bioogy: Brochure
 
 
 ## Writing

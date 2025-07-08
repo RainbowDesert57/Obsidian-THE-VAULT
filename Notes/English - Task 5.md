@@ -32,4 +32,4 @@
 ### **Dr. Herriot**: Yeah, why not! So, it reinforced the idea that simple care, proper diet, and natural interaction often work better than medicine. Animals, like humans, need balance. And sometimes, the real triumph in surgery is knowing when **not** to use the scalpel.
 
 # Links and Tags
-## [[Truimph of suregery]] #English
+## #English

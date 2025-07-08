@@ -87,7 +87,6 @@
   "Notes/Biology Project 2025.md": "LiLeaf",
   "Notes/Boat illustration, Biology.png": "LiImage",
   "Notes/Clock.md": "LiClock",
-  "Notes/Desktop App.md": "LiLaptop",
   "Notes/Geography Project 2025.md": "LiMap",
   "Notes/His First Flight.md": "LiNotebookText",
   "Notes/English Project 2025.md": "LiNotebookText",
@@ -125,5 +124,6 @@
   "Notes/Truimph of suregery.md": "LiNotebookText",
   "Indexes/Journal.md": "LiNotebookText",
   "Notes/Chemistry.md": "LiAtom",
-  "Notes/2025-07-02.md": "LiNotebookPen"
+  "Notes/2025-07-02.md": "LiNotebookPen",
+  "Indexes/Desktop App.md": "LiLaptop"
 }

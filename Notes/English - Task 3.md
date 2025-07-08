@@ -21,4 +21,4 @@
 <span style = "animation: fadeInUp 0.7s ease-in-out; font-weight: bold;">Mrs. Pumphrey: Indeed. Next time, I’ll be brave too.</span>
 
 # Links
-## [[English Project 2025]] [[His First Flight]] [[Truimph of suregery]] #English 
+## [[English Project 2025]] #English 

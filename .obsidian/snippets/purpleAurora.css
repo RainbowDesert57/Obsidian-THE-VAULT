@@ -2,12 +2,6 @@
   border-radius: 7px;
   
 }
-.workspace.is-sidedock-closed {
-	background-color: #1e1e2e !important;
-}
-body {
-	background: #1e1e2e !important;
-}
 .workspace-leaf-resize-handle {
   border: none !important;
 }
@@ -19,10 +13,10 @@ body {
   margin: 10px !important;
   margin-top: 170px !important;
   border: 2px solid rgb(138, 92, 245) !important;
-  height: 305px !important;
+  height: 305px; !important;
   /*backdrop-filter: blur(8px);*/
 
-  background-color: #1e1e2e !important;
+  background-color: transparent !important;
 }
 /* Main sidebar container (left + right) */
 .workspace-tabs.mod-left,
@@ -34,7 +28,7 @@ body {
 .graph-controls.is-close,
 .side-dock.mod-left,
 .side-dock.mod-right {
-  background-color: #1e1e2e !important;
+  background-color: transparent !important;
 }
 
 
@@ -44,13 +38,13 @@ body {
 .workspace-tab-header-container,
 .workspace-tab-header-container::after,
 .workspace-tab-header-inner {
-  background-color: #1e1e2e !important;
+  background-color: transparent !important;
 }
 .view-content {
-  background-color: #1e1e2e !important; /* Example: Catppuccin Mocha base */
+  background-color: transparent !important; /* Example: Catppuccin Mocha base */
 }
 .workspace-tab-header-container {
-  background-color: #1e1e2e !important;
+  background-color: transparent !important;
   border: none !important;
 }
 /*Hide srollbar from displaying*/
@@ -59,7 +53,7 @@ body {
 }
 
 .titlebar-button-container.mod-right{
-  background-color: #1e1e2e !important;
+  background-color: transparent !important;
 }
 /*.svg-icon.sidebar-left,
 .svg-icon.sidebar-right,*/
@@ -100,8 +94,6 @@ body {
 .CodeMirror-cursor { 
    width: 9px !important; 
 } 
-/* Transparency */
-/*.workspace-leaf, .workspace-tab-header-container { background: transparent !important; } .workspace-split.mod-root, .workspace-split.mod-root .view-content, .workspace-split.mod-root .view-header { background: transparent !important; } .view-header-title-container:not(.mod-at-end):after { background: transparent !important; }*/
 .workspace-leaf-resize-handle {
 	opacity: 0 !important;
 }

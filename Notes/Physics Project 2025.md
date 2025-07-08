@@ -52,4 +52,4 @@ Same rays as CASE 2:
 - But since object was **below**, image forms **above** axis
 ##### Yes — **CBSE twist**: same mirror, same object distance, but because you placed the object below the axis, the image flips **above** axis (still technically _inverted_).
 # Links
-## [[Physics]] [[Light]] [[Ray Diagrams]]
+## [[Physics]] [[Light]] [[Ray Diagrams]] #schoolProject #science 

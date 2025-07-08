@@ -38,9 +38,9 @@
 
 ## ToDo:
 
-- [ ] Design in canva
+- [x] Design in canva ✅ 2025-07-08
 - [x] Final it ✅ 2025-07-02
-- [ ] make it on a folded a3 sheet
+- [-] make it on a folded a3 sheet
 # Images
 
 ### Kidney
@@ -57,4 +57,4 @@
 
 
 ---
-# Links: [[Biology Project 2025]] [[Life Processes]]
+# Links: [[Biology Project 2025]] 
