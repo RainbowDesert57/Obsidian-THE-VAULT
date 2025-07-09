@@ -6,7 +6,8 @@
 - **Saliva contains an enzyme called salivary amylase that breaks down starch that breaks down starch, a complex molecule, into simple sugar**
 - **The food is then moved around by then tongue and then pushed into the alimentary canal**
 ---
-<span class="purpleHighlight h2">The Alimentary Canal</span>
+<div class="purpleHighlight h2">The Alimentary Canal</div>
+
 - **The food is passed down to the stomach using rhythmic contraction and relaxation of muscles. These paristaltic movement occur all around the gut**
 - **Paristalsis:** The rhythmic contraction and relaxation of muscles to transport food
 - **This food then enters the stomach**
@@ -27,6 +28,7 @@
 - **The food now enter the small intestine**
 ---
 ## <span style="background-color: rgba(100, 10, 255, 0.25); border-radius: 5px; font-weight: bold; padding: 1.5px; padding-right: 7px; padding-left: 7px;">The Small Intestine</span>
+### Summary
 - It is the longest alimentary canal which is fitted into a compact space because of **excessive coiling**
 - The length differs in various animals
 	- In herbivores it is longer because they have to digest cellulose
@@ -48,6 +50,9 @@
 	- They are richly supplied with blood vessels where it is utilized for obtaining energy, building up new tissues and the repair of old tissues
 
 - The unabsorbed food is sent to **large intestine**
+### Acids
+- **Bile juice**:
+- [ ] complete this 📅 2025-07-20 🔼 
 ---
 ## <span style="background-color: rgba(100, 10, 255, 0.25); border-radius: 5px; font-weight: bold; padding: 1.5px; padding-right: 7px; padding-left: 7px;">Large Intestine</span>
 - Here, its walls absorb more water from food. The rest of the waste material is removed via the anus

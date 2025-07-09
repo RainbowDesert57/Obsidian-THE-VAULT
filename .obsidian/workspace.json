@@ -27,8 +27,8 @@
               "type": "task-genius-view",
               "state": {},
               "pinned": true,
-              "icon": "layout-grid",
-              "title": "Matrix"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -66,7 +66,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Nutrition in Humans.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
