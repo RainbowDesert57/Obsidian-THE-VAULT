@@ -4,77 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "828779d89b54d44b",
+        "id": "b70ab8f3b5f9cfd6",
         "type": "tabs",
         "children": [
           {
-            "id": "466e9acc2e87da70",
+            "id": "f10691065fbd2343",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "722b548d2484ecc6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "task-genius-view",
-              "state": {},
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3b814f898bcc75ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/A long walk to freedom - Nelson Mandela.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A long walk to freedom - Nelson Mandela"
-            }
-          },
-          {
-            "id": "4366aee50e9803a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/English PT - 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "English PT - 1"
-            }
-          },
-          {
-            "id": "c7fad3011357ccf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Nutrition in Humans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nutrition in Humans"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 200
   },
   "right": {
     "id": "890029c8cdf29292",
@@ -299,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 268
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,21 +263,24 @@
       "obsidian-task-progress-bar:Open Task Genius view": false
     }
   },
-  "active": "c7fad3011357ccf9",
+  "active": "962aafa986b76596",
   "lastOpenFiles": [
-    "Notes/A long walk to freedom - Nelson Mandela.md",
+    "Notes/Clock.md",
+    "Notes/Light - Formulas.md",
+    "Notes/1. Real Numbers.md",
     "Notes/English PT - 1.md",
+    "Notes/Real Numbers - QnA.md",
+    "Notes/Nutrition in Humans.md",
+    "Notes/A long walk to freedom - Nelson Mandela.md",
     "Notes/PT - 1 Exams.md",
     "Notes/English - Task 3.md",
     "Notes/English - Task 5.md",
     "Notes/Heterotrophic Nutrition.md",
     "Notes/Life Processes.md",
-    "Notes/Nutrition in Humans.md",
     "Notes/Life Processes - Nutrition.md",
     "Notes/Biology Brochure.md",
     "Notes/Life processes - BEP.md",
     "Notes/Autotrophic Nutrition.md",
-    "Notes/Light - Formulas.md",
     "Indexes/Physics.md",
     "Notes/Light - Reflection and Refraction.md",
     "Notes/Life processes - Introduction.md",
@@ -346,9 +292,6 @@
     "Notes/Two Sum.md",
     "Notes/Datesheet & Syllabus Class X.pdf",
     "Indexes/DSA.md",
-    "Indexes/Maths.md",
-    "Notes/Valencies and Formulas.md",
-    "Notes/Chemistry - Chemical Equations and Reactions.md",
     "Templates",
     "Notes/Thread Vault Theory.canvas",
     "Untitled.canvas",

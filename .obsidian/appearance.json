@@ -3,8 +3,7 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "animations",
-    "formatting",
-    "UI"
+    "formatting"
   ],
   "showViewHeader": false,
   "baseFontSize": 18,

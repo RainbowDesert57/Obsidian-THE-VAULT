@@ -15,3 +15,5 @@
 **u:** `Image distance`
 **i:** `angle of incidence`
 **r:** `angle of reflection`
+### Links:
+#### [[Physics]] #science
